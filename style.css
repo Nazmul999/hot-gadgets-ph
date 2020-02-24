@@ -1,0 +1,127 @@
+.container{
+    margin-bottom: 100px;
+}
+.white-bg{
+    background-color: #fff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: black;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, black 0%, black 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius:10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius:10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.card-footer{
+    padding: .75rem 1.25rem;
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
+.products p{
+    color: orange;
+    font-weight: 500;
+}
+.catt-title{
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+ margin-bottom: 55px;
+}
+.catt-title h2{
+    display: inline-block;
+    position: relative;
+    font-size: 24;
+    color: #1f1f1f;
+    font-weight: 600px;
+}
+.catt-title::after{
+    content:"" ;
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    margin-left: -50px;
+    height: 5px;
+    background: #ff9c35;
+    width:100px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.categories{
+   background-color: white;
+   height: 120px;
+   width: 120px;
+   box-shadow: 5px 5px 20px lightgray;
+   margin: 20px;
+   font-weight: 500;
+   padding-top: 20px;
+   border-radius: 0px 10px 0px;
+   -webkit-border-radius: 0px 10px 0px;
+   -moz-border-radius: 0px 10px 0px;
+   -ms-border-radius: 0px 10px 0px;
+   -o-border-radius: 0px 10px 0px;
+}
+.categories img{
+    height: 50px;
+    width: 50px;
+}
